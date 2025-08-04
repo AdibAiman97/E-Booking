@@ -30,20 +30,17 @@ The application is organized into role-based modules and shared components:
 
 # 4) Project Preview
 
-**Homepage**
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/65ccc104-f06a-4078-9442-432af673543b" />
 <br>
-**Admin Page**
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3d15551b-d237-455b-a10f-8ad6fe3327c6" />
 <br>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8271bd42-11db-4eb8-b512-51185b5b573c" />
 <br>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/994fb25a-8e2f-4fff-99be-1462a8ab67ca" />
 <br>
-**Customer Page**
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8a75788a-2aeb-4b9b-bfaf-1a6149c7e0ba" />
 <br>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/a5078552-39b4-41f7-8c78-ed18aa1105be" />
 <br>
-<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/81927c87-25b7-4f72-9132-090a9a97bd04" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/81927c87-25b7-4f72-9132-090a9a97bd04" />
 
