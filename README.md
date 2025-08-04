@@ -32,14 +32,14 @@ The application is organized into role-based modules and shared components:
 
 **Homepage**
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/65ccc104-f06a-4078-9442-432af673543b" />
-
+<br>
 **Admin Page**
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3d15551b-d237-455b-a10f-8ad6fe3327c6" />
 <br>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8271bd42-11db-4eb8-b512-51185b5b573c" />
 <br>
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/994fb25a-8e2f-4fff-99be-1462a8ab67ca" />
-
+<br>
 **Customer Page**
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/8a75788a-2aeb-4b9b-bfaf-1a6149c7e0ba" />
 <br>
